@@ -1,1 +1,1 @@
-Senior Project 2025-2026
+Saint Vincent College Weather Station - Senior Project 2025-2026
