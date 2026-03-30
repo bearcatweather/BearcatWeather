@@ -1,1 +1,1 @@
-Saint Vincent College Bearcat Weather Station
+Senior Project 2025-2026
