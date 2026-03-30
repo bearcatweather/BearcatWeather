@@ -1,7 +1,0 @@
-Log created: 2026-03-23 13:44:48
-------------------------------------------------------------
-[2026-03-23 13:45:38 UTC] DIR=315deg (NW) SPD=000mph GST=000mph
-[2026-03-23 13:58:35 UTC] DIR=315deg (NW) SPD=000mph GST=000mph
-[2026-03-23 14:01:09 UTC] DIR=315deg (NW) SPD=000mph GST=000mph
-[2026-03-23 14:03:42 UTC] DIR=313deg (NW) SPD=000mph GST=000mph
-[2026-03-23 14:04:42 UTC] DIR=315deg (NW) SPD=000mph GST=000mph
